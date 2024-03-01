@@ -6,7 +6,7 @@ To install this project, you will need to have Node.js and npm installed on your
 
 Once you have Node.js and npm installed, you can clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/Sarthakyadav98qr-code-generator.git
 
 Then, navigate to the project directory and install the dependencies using the following command:
 
